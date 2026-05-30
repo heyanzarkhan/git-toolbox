@@ -2,10 +2,10 @@
 
 # 🧰 git-toolbox
 
-**The Git Command Cheat Sheet — from your first commit to interactive rebases.**
+### ⚡ Quick Cheat Sheet
 
-A clean, organized, **copy-paste-ready** reference for every Git command you'll actually use.
-Built for beginners learning the ropes *and* pros who just need a quick reminder mid-merge-conflict.
+**The fast, copy-paste-ready reference for every Git command you'll actually use.**
+Want the *full* explanations, history, and GitHub guide? 👉 **[Read the complete Handbook](README.md)**
 
 <br/>
 
